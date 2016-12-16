@@ -1,0 +1,10 @@
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\bin\Debug\Course_work.exe.config
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\bin\Debug\Course_work.exe
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\bin\Debug\Course_work.pdb
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.csprojResolveAssemblyReference.cache
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.Main.resources
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.Properties.Resources.resources
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.csproj.GenerateResource.Cache
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.exe
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.pdb
+E:\Ucheba\S5\BD\Course_Work\Course_work\Course_work\obj\Debug\Course_work.Client.resources
